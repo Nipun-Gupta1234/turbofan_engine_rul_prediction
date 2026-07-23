@@ -57,6 +57,10 @@ data/
     └── RUL_FD001.txt
 ```
 
+### Original Source
+
+- Kaggle Dataset: https://www.kaggle.com/datasets/bishals098/nasa-turbofan-engine-degradation-simulation
+
 ---
 
 ## 🧠 Models
